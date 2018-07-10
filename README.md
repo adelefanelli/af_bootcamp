@@ -1,2 +1,3 @@
-# af_bootcamp
-Utilities from Python Bootcamp
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
